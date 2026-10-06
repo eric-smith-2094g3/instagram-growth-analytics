@@ -10,4 +10,4 @@ pip install -r requirements.txt
 
 Handles are stored in ~/.config/ig-growth/handles.json. Snapshots append to a local sqlite file. No network calls happen if the handles list is empty.
 
-<!-- refreshed: 2026-10-05 -->
+<!-- refreshed: 2026-10-06 -->
